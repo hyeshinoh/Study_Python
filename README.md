@@ -4,7 +4,6 @@ Python을 공부한 내용을 정리합니다.
 
 
 ### 1. python 기초
----
 | # | Topic | Notes |
 |---|---|---|
 |1| basic syntax ||
@@ -20,7 +19,6 @@ Python을 공부한 내용을 정리합니다.
 |11| regex ||
 
 ### 2. python으로 데이터 다루기
----
 | # | Topic | Notes |
 |---|---|---|
 |1| NumPy - basic(1)||
