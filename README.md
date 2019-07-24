@@ -7,7 +7,7 @@ Python을 공부한 내용을 정리합니다.
 ---
 | # | Topic | Notes |
 |---|---|---|
-|1| basic syntax ||
+|1| basic syntax |[note](https://nbviewer.jupyter.org/github/hyeshinoh/Study_Python/blob/master/python_01_basic_syntax.ipynb)|
 |2| condition & loop  ||
 |3| function - basic  ||
 |4| function - intermediate  ||
